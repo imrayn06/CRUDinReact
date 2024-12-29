@@ -1,5 +1,9 @@
 # React CRUD App with REST API
 
+Deployed Link :  https://deft-donut-12008e.netlify.app/
+
+Snapshots will be available soon...
+
 This is a simple React application that demonstrates CRUD (Create, Read, Update, Delete) functionality using a REST API. The app allows users to manage posts, including creating, updating, deleting, and viewing posts.
 
 ## Features
