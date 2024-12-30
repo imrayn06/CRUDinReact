@@ -12,7 +12,7 @@ This is a simple React application that demonstrates CRUD (Create, Read, Update,
 - **Read**: View a list of posts and individual post details.
 - **Update**: Edit existing posts.
 - **Delete**: Remove posts.
-- **Dynamic Pagination**: Number of posts per page adjusts based on screen size.
+- **Dynamic Pagination**: Number of posts per page adjusts based on screen size. (Pending Implementation)
 
 ## Technologies Used
 
